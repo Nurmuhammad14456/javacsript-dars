@@ -1,0 +1,19 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+body {
+   background: #FEFEFE;
+}
+.container {
+   padding-left: 15px;
+   padding-right: 15px;
+   max-width: 1185px;
+   width: 100%;
+   margin: 0 auto;
+}
+ul, li {
+   list-style: none;
+}
